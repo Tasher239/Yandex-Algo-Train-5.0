@@ -259,7 +259,7 @@ Score opens by <Имя игрока>
 
 </details>
 
-Решение: [special cases/J. Document formation.py](https://github.com/Tasher239/Yandex-Algo-Train-5.0/blob/main/Binary%20search/F.%20Bike%20paths.py))
+Решение: [special cases/J. Document formation.py](https://github.com/Tasher239/Yandex-Algo-Train-5.0/blob/main/Binary%20search/F.%20Bike%20paths.py)
 
 
 2. G. Новый офис плюса
@@ -286,14 +286,9 @@ Score opens by <Имя игрока>
 
 Формат вывода: Выведите одно целое положительное число — **максимально возможное значение k**.
 
----
-
-## Пример ввода:
-
-
 </details>
 
-Решение: [G. Новый офис плюса](special cases/J. Document formation.py)
+Решение: [special cases/J. Document formation.py](https://github.com/Tasher239/Yandex-Algo-Train-5.0/blob/main/Binary%20search/G.%20New%20Plus%20office.py)
 
 3. H. Выборы
 <details>
