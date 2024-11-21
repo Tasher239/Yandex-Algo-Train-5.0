@@ -259,7 +259,7 @@ Score opens by <Имя игрока>
 
 </details>
 
-Решение: [F. Велодорожки](special cases/J. Document formation.py)
+Решение: [F. Велодорожки]([special cases/J. Document formation.py](https://github.com/Tasher239/Yandex-Algo-Train-5.0/blob/main/Binary%20search/F.%20Bike%20paths.py))
 
 
 2. G. Новый офис плюса
